@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace Juandre_POE_TASK1_TESTING
 {
-    public partial class Main
+    public partial class Form1
     {
         public abstract class Character : Tile
         {
@@ -164,6 +164,8 @@ namespace Juandre_POE_TASK1_TESTING
 
 
         }
-    }    
+    }
+
+    
 }
 
